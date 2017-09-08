@@ -8,3 +8,4 @@ const {AppRegistry} = require('react-native');
 import Root from './js/root';
 
 AppRegistry.registerComponent('LearnReactNative', ()=> Root);
+
