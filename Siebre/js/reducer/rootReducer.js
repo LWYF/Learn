@@ -1,11 +1,16 @@
+/**
+ * lwyf
+ * https://github.com/LWYF/Learn
+ */
+
 'use strict';
 
 import {combineReducers} from 'redux';
 
-import main from './main';
+import useInfo from './userInfo';
 
 const rootReducer = combineReducers({
-    main,
+    useInfo
 });
 
 export default rootReducer;

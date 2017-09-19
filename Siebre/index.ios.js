@@ -1,4 +1,5 @@
 /**
+ * lwyf
  * https://github.com/LWYF/Learn
  */
 
@@ -7,5 +8,5 @@
 const {AppRegistry} = require('react-native');
 import Root from './js/root';
 
-AppRegistry.registerComponent('LearnReactNative', ()=> Root);
+AppRegistry.registerComponent('Siebre', ()=> Root);
 
